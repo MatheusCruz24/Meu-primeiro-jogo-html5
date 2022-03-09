@@ -1,0 +1,1 @@
+Criação de jogo HTML5, utilizando JavaScript, Jquery e CSS. Como parte do projeto realizado pela Digital Innovation One (DIO) do curso Take Blip - Web developer. 
